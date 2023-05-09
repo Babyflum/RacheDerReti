@@ -1,0 +1,27 @@
+{
+    "activeFile": "map.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "map.tmx": {
+            "scale": 0.2054375,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1596.592637663523,
+                "y": 2083.35868573167
+            }
+        },
+        "tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "openFiles": [
+        "map.tmx"
+    ],
+    "project": "map.tiled-project",
+    "recentFiles": [
+        "map.tmx",
+        "tileset.tsx"
+    ]
+}
